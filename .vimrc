@@ -18,7 +18,7 @@
 " git clone git://github.com/davidhalter/jedi-vim.git
 " mkdir -p ~/.vim/ftplugin
 " wget -O ~/.vim/ftplugin/python_editing.vim http://www.vim.org/scripts/download_script.php?src_id=5492
-
+" (From VIM) -- ":Pluginstall<enter>"
 
 " Automatic reloading of .vimrc
 autocmd! bufwritepost .vimrc source %
