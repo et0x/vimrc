@@ -16,6 +16,7 @@
 " git clone git://github.com/Lokaltog/vim-powerline.git
 " git clone https://github.com/kien/ctrlp.vim.git
 " git clone git://github.com/davidhalter/jedi-vim.git
+" git clone git://github.com/tpope/vim-surround.git
 " mkdir -p ~/.vim/ftplugin
 " wget -O ~/.vim/ftplugin/python_editing.vim http://www.vim.org/scripts/download_script.php?src_id=5492
 " cd ~
